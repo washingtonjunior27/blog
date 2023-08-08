@@ -2,4 +2,4 @@
 
 -- DEVELOPED FOR TRAINING
 
-LINK: https://elegant-mooncake-e9c24c.netlify.app
+LINK: https://blog-washington-jr.netlify.app
